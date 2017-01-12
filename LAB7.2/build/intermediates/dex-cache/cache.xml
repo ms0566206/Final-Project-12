@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_c881303acae3fc56fd92c662f12182fbf6b0ccff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_67199c0a4e747be8f4d87a9b201e49cfe39d9029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_10cf865a1e53dc0614fa374973be494a57559cce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_02368452c8e02b57e468267f724aae6ff0a91efb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b5050b66f0aa9105301af4de36425ba5072001bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_87c2aab67fd29bc522fd3aa680d41be8d2427475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_75ba7c05ca0f5ec8edfa289289da44a1a6364117.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_6a4fc77a2031ba3823d3a2ef679359ef83be57ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b4bf8dd975b5218dae9c6cdc1e591fc4e580dbcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_87f4d49f29db52eb0ca8742895c566a605946eba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_690e0b047ed857d33711b1d982167f8f483a5da9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_8ef3d07a423c5986a90dce4b31dcc484ed25f43f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_3734c83e3ac872c5413d7264f10a42ef3d80d131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_c89650f8493848d6d6ad86819efd669681be9511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_4c6341e60e5ec68e9192cf51f532bf67bdadc97a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_2198669a5eddb0321369fa25b406c751c452e66a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_aae39c4e456ad4bae4f5c1de4d49a29f3889b1b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f05a14957b4127a7dcff094b723a1a3ceda2b0ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_baaad2587a3be5d668fbeb9aef0b3298d4a08185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\james\Desktop\LAB7.2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3992c21130343ed3e80416e9370bb3c8765e5570.jar" />
+    </item>
+
+</items>
